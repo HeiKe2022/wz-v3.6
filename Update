@@ -1,5 +1,8 @@
 Rewrite AI avoid damage
-Fixed auto boss of boss when encounter a boss
-AI Avoid damage change to straight farm only instead of keep great distance
+Remove auto upside down misc only
+AI avoid damage added all boss attack
+AI avoid damage will go up like spiral accordingly
+AI avoid damage buffer to react when ring become bigger
+Fixed auto use boss of boss weapon when encounter a boss <misc>
 Removed Auto set player upside down for closer to mob and keep that option in misc
-Add sell legendary but this is very unstable since it doesn't have good accuracy at the momen
+Improved the future sell unselected perk legendary (doesn't have a good accuracy at the moment)
